@@ -1,3 +1,5 @@
+![top image](github-top.png)
+
 ### Hi there 👋 I'm Mari. Welcome to my GitHub page!
 
 <!--
